@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `My Awesome Blog`,
     description: `This blog is the freakin' best!`,
-    author: `@gatsbyjs`,
+    siteUrl: 'https://kind-bartik-9cea0f.netlify.com/',
+    author: `Joey Dye`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
